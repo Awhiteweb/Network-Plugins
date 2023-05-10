@@ -1,0 +1,28 @@
+{
+    "type": "P2P Network",
+    "name": "AWhiteWebTestNetwork",
+    "config": "{\n    \"codeName\": \"AWhiteWebTestNetwork\"\n}",
+    "project": "Network",
+    "id": "941dcb61-661b-405a-910b-0cdcbbd93c2b",
+    "savedPayload": {
+        "position": {
+            "x": 30726.56517311609,
+            "y": 24947.472083748755
+        },
+        "targetPosition": {
+            "x": 30726.56517311609,
+            "y": 24947.472083748755
+        },
+        "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": true,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+        },
+        "uiObject": {
+            "isRunning": false
+        }
+    }
+}
